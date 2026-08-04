@@ -121,8 +121,8 @@ assets:
     - "^lsd-v.*-x86_64-apple-darwin\\.tar\\.gz$"
   darwin/arm64:
     - "^lsd-v.*-aarch64-apple-darwin\\.tar\\.gz$"
-  # windows/amd64:
-  #   - "^lsd-v.*-x86_64-pc-windows-msvc\\.zip$"
+  windows/amd64:
+    - "^lsd-v.*-x86_64-pc-windows-msvc\\.zip$"
 
 # Every archive — tarball and zip alike — wraps its payload in ONE directory
 # named after the asset itself (`lsd-v1.2.0-x86_64-unknown-linux-musl/`), which
