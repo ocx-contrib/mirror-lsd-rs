@@ -28,17 +28,6 @@ deterministic text.
 The mirrored archives also carry upstream's `lsd.1` man page and shell
 completions for bash, zsh, fish and PowerShell alongside the binary.
 
-## Install with ocx
-
-```sh
-ocx install ocx.sh/lsd-rs/lsd
-```
-
-```sh
-# or pin a specific version
-ocx install ocx.sh/lsd-rs/lsd:1.2.0
-```
-
 ## Links
 
 - [lsd on GitHub](https://github.com/lsd-rs/lsd)
